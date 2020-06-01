@@ -1,5 +1,5 @@
 # sat_padron_69F
-Procedimiento robotizado para obtener las tablas de proveedores bajo la restricción del Art.69-F 1,2 párrafo del CFF
+Procedimiento robotizado para obtener las tablas de proveedores bajo la restricción del Art.69-F 1,2 párrafo del CFF (SAT México)
 
 Mediante el script en python, se obtienen los archivos de la SAT México.
 
